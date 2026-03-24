@@ -1,0 +1,15 @@
+# credentials
+credentials.py
+
+# model files
+*.h5
+*.hdf5
+
+# temp files
+temp_img.jpg
+temp_*.jpg
+*.tmp
+
+# python
+__pycache__/
+*.pyc
