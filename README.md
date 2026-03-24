@@ -304,3 +304,6 @@ NOT for:
 * Emergency use
 
 Consult professionals for real diagnosis.
+
+---
+<div align="center"> Made with ❤️ for medical AI research </div>
